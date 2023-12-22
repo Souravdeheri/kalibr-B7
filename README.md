@@ -32,6 +32,7 @@ apt-get -y install php openssh git wget
 ```
 git clone https://github.com/Souravdeheri/kalibr-B7
 cd kalibr-B7
+chmod +x Kalibr.sh 
 bash Kalibr.sh
 ```
 
