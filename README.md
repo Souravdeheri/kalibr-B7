@@ -31,8 +31,8 @@ apt-get -y install php openssh git wget
 
 ```
 git clone https://github.com/Souravdeheri/kalibr-B7
-cd CamPhish
-bash camphish.sh
+cd kalibr-B7
+bash Kalibr.sh
 ```
 
 ## Change Log:
